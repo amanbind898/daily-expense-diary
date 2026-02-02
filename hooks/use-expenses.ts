@@ -69,6 +69,7 @@ export function useExpenses() {
         deleteExpense,
         getExpensesByDate,
         getTotalSpent,
-        getExpensesThisMonth
+        getExpensesThisMonth,
+        importExpenses: saveExpenses
     }
 }
