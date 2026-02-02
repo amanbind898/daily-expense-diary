@@ -1,3 +1,5 @@
+"use client"
+
 import { useRef } from "react"
 import { useTheme } from "next-themes"
 import { Button } from "@/components/ui/button"
